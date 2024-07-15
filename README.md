@@ -1,12 +1,8 @@
-Here's a `README.md` file for your `google_maps_automation` repository:
-
----
-
-# google_maps_automation
+# satellite_imagery_automation
 
 ## Overview
 
-`google_maps_automation` is a Selenium-based project designed to automate the process of capturing screenshots of specified areas on Google Maps. Given latitude, longitude, and grid size, the script efficiently generates a grid of screenshots over the designated location. This project is highly dynamic and can run in both headless and browser modes, making it versatile for various use cases.
+`satellite_imagery_automation` is a Selenium-based project designed to automate the process of capturing screenshots of specified areas on Google Maps. Given latitude, longitude, and grid size, the script efficiently generates a grid of screenshots over the designated location. This project is highly dynamic and can run in both headless and browser modes, making it versatile for various use cases.
 
 ## Features
 
@@ -25,8 +21,8 @@ Here's a `README.md` file for your `google_maps_automation` repository:
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/google_maps_automation.git
-   cd google_maps_automation
+   git clone https://github.com/yourusername/satellite_imagery_automation.git
+   cd satellite_imagery_automation
    ```
 
 
