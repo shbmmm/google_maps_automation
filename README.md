@@ -29,12 +29,8 @@ Here's a `README.md` file for your `google_maps_automation` repository:
    cd google_maps_automation
    ```
 
-2. **Install required packages**:
-   ```sh
-   pip install -r requirements.txt
-   ```
 
-3. **Download ChromeDriver**:
+2. **Download ChromeDriver**:
    - Make sure to download the ChromeDriver that matches your Chrome browser version.
    - Add the ChromeDriver to your system's PATH or place it in the project directory.
 
