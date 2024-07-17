@@ -1,5 +1,8 @@
 # satellite_imagery_automation
 
+[REPOSITORY UNDER CONSTRUCTION,but feel free to check out scripts]
+
+
 ## Overview
 
 `satellite_imagery_automation` is a Selenium-based project designed to automate the process of capturing screenshots of specified areas on Google Maps. Given latitude, longitude, and grid size, the script efficiently generates a grid of screenshots over the designated location. This project is highly dynamic and can run in both headless and browser modes, making it versatile for various use cases.
